@@ -1,1 +1,1 @@
-include: ["_css/this.css","_js/this.js"]
+include: ["_css","_js"]
