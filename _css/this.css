@@ -1,2 +1,5 @@
 html{height:100%;width:100%}
-body{height:100%;width:100%;margin:0;padding:0;background-color:#3179ad;font-family:'Gotham A','Gotham B';color:#fff}
+body{height:100%;width:100%;margin:0;padding:0;background-color:#3179ad;font-family:'Gotham A','Gotham B';color:#fff;}
+#c{display:flex;height:100%;align-items:center}
+#h{flex:1;text-align:center;font-size:42px}
+.tungsten{'Tungsten Rounded A', 'Tungsten Rounded B'}
