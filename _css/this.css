@@ -1,5 +1,9 @@
 html{height:100%;width:100%}
 body{height:100%;width:100%;margin:0;padding:0;background-color:#3179ad;font-family:'Gotham A','Gotham B';color:#fff;display:flex;height:100%;align-items:center}
+
+a{color:#fff;text-decoration:none}
+a:hover{text-decoration:underline}
+
 #h{flex:1;text-align:center;font-size:42px}
 .gotham{font-family:'Gotham A','Gotham B'}
 .tungsten{font-family:'Tungsten Rounded A','Tungsten Rounded B'}
