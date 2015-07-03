@@ -1,5 +1,5 @@
-html{height:100%;width:100%}
-body{height:100%;width:100%;margin:0;padding:0;background-color:#3179ad;font-family:'Gotham A','Gotham B';color:#fff;display:flex;height:100%;align-items:center}
+html,body{height:100%;width:100%}
+body{margin:0;padding:0;background-color:#3179ad;color:#fff;display:flex;height:100%;align-items:center}
 
 a{color:#fff;text-decoration:none}
 a:hover{text-decoration:underline}
