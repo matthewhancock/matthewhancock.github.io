@@ -4,6 +4,6 @@ body{height:100%;width:100%;margin:0;padding:0;background-color:#3179ad;font-fam
 a{color:#fff;text-decoration:none}
 a:hover{text-decoration:underline}
 
-#h{flex:1;text-align:center;font-size:42px}
+#h{flex:1;text-align:center;font-size:4vw}
 .gotham{font-family:'Gotham A','Gotham B'}
 .tungsten{font-family:'Tungsten Rounded A','Tungsten Rounded B'}
